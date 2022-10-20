@@ -15,7 +15,6 @@ O(n^2)
 ## 3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 ## 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Avarage case kapsamına girer.
-## -----------------
 ## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 1) 7 ile 2 yer değiştirir. [2,3,5,8,7,9,4,15,6]
 2) 5 ile 4 yer değiştirir. [2,3,4,8,7,9,5,15,6]
